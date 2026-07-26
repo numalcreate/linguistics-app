@@ -1,0 +1,6 @@
+{
+  "name": "Linguistics Academy",
+  "description": "Comprehensive interactive platform for linguistics students: IPA Phonetics exercises, Syntax Tree Visualizer, Morphology database & Leipzig glossing, and historical linguist biographies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
