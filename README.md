@@ -58,3 +58,15 @@ AI Backend Engine: Express.js server + @google/genai (Gemini 3.6 Flash)
 4- Listen Vowel sounds in English: 
 <img width="902" height="413" alt="Listen vowel sounds" src="https://github.com/user-attachments/assets/68af6752-882e-4f4b-9866-414d6c8c87ac" />
 
+
+How to run the app: 
+## g. How to Run the Project
+
+If you want to run this project locally on your computer:
+
+1. **Clone the repository:**
+   ```bash:  npm install
+   git clone [https://github.com/numalcreate/linguistics-app.git](https://github.com/numalcreate/linguistics-app.git)
+
+  npm install
+  npm run dev
