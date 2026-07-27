@@ -46,7 +46,15 @@ Interactive Exercises: Knowledge checks testing IPA symbol features, acoustic fo
 AI Backend Engine: Express.js server + @google/genai (Gemini 3.6 Flash)
 **Deployment:** Vercel / Cloud Run
 
+1- Scientists Contribution based on type and year: 
 <img width="901" height="407" alt="Scientists Contributions" src="https://github.com/user-attachments/assets/352ea51e-b2b2-4188-b805-755d86efe6c7" />
 
+2- Practice Quiz for Linguistics: 
+<img width="390" height="412" alt="Practice Quiz" src="https://github.com/user-attachments/assets/903f65bf-98a1-49a1-8ce3-4ee770d8e1b0" />
 
+3- Syntax Tree breakdown for any sentence: 
+<img width="875" height="388" alt="Syntax tree breakdown of any sentence" src="https://github.com/user-attachments/assets/9485aa31-ad44-45ab-9013-b126c56089b2" />
+
+4- Listen Vowel sounds in English: 
+<img width="902" height="413" alt="Listen vowel sounds" src="https://github.com/user-attachments/assets/68af6752-882e-4f4b-9866-414d6c8c87ac" />
 
